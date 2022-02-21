@@ -1,0 +1,15 @@
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpCompositeDelegates\bin\Debug\net7.0\CSharpCompositeDelegates.exe
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpCompositeDelegates\bin\Debug\net7.0\CSharpCompositeDelegates.deps.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpCompositeDelegates\bin\Debug\net7.0\CSharpCompositeDelegates.runtimeconfig.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpCompositeDelegates\bin\Debug\net7.0\CSharpCompositeDelegates.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpCompositeDelegates\bin\Debug\net7.0\CSharpCompositeDelegates.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpCompositeDelegates\obj\Debug\net7.0\CSharpCompositeDelegates.csproj.AssemblyReference.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpCompositeDelegates\obj\Debug\net7.0\CSharpCompositeDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpCompositeDelegates\obj\Debug\net7.0\CSharpCompositeDelegates.AssemblyInfoInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpCompositeDelegates\obj\Debug\net7.0\CSharpCompositeDelegates.AssemblyInfo.cs
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpCompositeDelegates\obj\Debug\net7.0\CSharpCompositeDelegates.csproj.CoreCompileInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpCompositeDelegates\obj\Debug\net7.0\CSharpCompositeDelegates.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpCompositeDelegates\obj\Debug\net7.0\refint\CSharpCompositeDelegates.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpCompositeDelegates\obj\Debug\net7.0\CSharpCompositeDelegates.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpCompositeDelegates\obj\Debug\net7.0\CSharpCompositeDelegates.genruntimeconfig.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpCompositeDelegates\obj\Debug\net7.0\ref\CSharpCompositeDelegates.dll
